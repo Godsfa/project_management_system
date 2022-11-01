@@ -1,0 +1,24 @@
+task_manager(DataBase_name)
+
+tbl_admin(table name)
+colums_names
+
+TASKS
+
+tbl_tasks(table name)
+colums_names
+
+tasks_id
+task_name
+task_description
+priority
+deadline
+
+hostname = localhost
+user name = task_manager
+password = task_manager
+database = task_manager
+
+Admin login
+    username: administrator
+    password: administration

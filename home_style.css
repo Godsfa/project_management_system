@@ -1,0 +1,51 @@
+.body{
+    background-color: #20bf6a9a;
+} 
+*{
+   margin: 0px;
+   padding: 0px;
+   font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    width: 78%;
+    position: relative;
+    bottom:20px ;
+}
+.container{
+    position: relative;
+    top: 50px;
+}
+.h4{
+    padding: 10px;
+}
+.get_started{
+    position: relative;
+    top: 12rem;
+    margin: 10px;
+    padding: 15px !important;
+}
+.text{
+    position: relative;
+    top: 5rem;
+}
+.a{
+    text-decoration: none;
+    color: white;
+}
+.navbar{
+    position: fixed;
+}
+.nav{
+    display: flex;
+    position: relative;
+    left: 28rem;
+}
+.pages{
+    margin: 10px;
+}
+button:active{
+    transform: scale(1.1);
+}
+input{
+    background: transparent;
+}
